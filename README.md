@@ -11,6 +11,7 @@ Here we will use option 1 to get the signature of the gate keeper, and somehow u
 
 First let's change the message from bytes to long.  
 Crypt0N19h7 --> 81538619852414955053213751.  
+Note: I tried sending this message to be signed, but the system knows this loop hole and responded with "you underestimate my skills", so I had to think about another solution.  
 factorizing the message using Alperton online factorization.  
 81538619852414955053213751 = 16896045279 * 4825899700550569.  
 
